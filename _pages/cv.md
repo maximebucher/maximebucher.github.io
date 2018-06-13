@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Today: Ph.D in Computer Vision: Visual SLAM for Underwater Vehicles, ONERA - DTIS / LIRMM - CNRS
+        
         (Under the supervision of: Dr. Vincent Creuze, Dr. Julien Moras and Dr. Pauline Trouvé-Peloux)
 * 2016: Graduated in Computer Science - Electrical Engineering from the Engineering School Polytech Annecy-Chambéry
 * 2015: Exchange Semester at San Diego State University - California
