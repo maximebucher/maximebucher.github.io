@@ -1,7 +1,7 @@
 ---
 title: "Traitement du signal - Fusion de données"
 collection: teaching
-type: "Graduate course"
+type: "Mastere Students - ILEMS"
 permalink: /teaching/2015-spring-teaching-1
 venue: "ENSTA ParisTech"
 date: 2017-09-01
