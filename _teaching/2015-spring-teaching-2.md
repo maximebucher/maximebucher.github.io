@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "ENSTA ParisTech"
-date: 1st semester, 2017
+date: 2017-09-01
 location: "Paris Saclay, France"
 ---
 
