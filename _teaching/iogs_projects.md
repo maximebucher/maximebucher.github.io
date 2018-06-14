@@ -3,7 +3,7 @@ title: "PIMS Projects"
 collection: teaching
 type: "2nd year"
 permalink: /teaching/iogs_projects
-venue: "IOGS"
+venue: "Institut d'Optique Graduate School"
 date: 2017-09-01
 location: "Paris Saclay, France"
 ---
