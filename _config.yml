@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Maxime Ferrera"
 title_separator          : "-"
 name                     : &name "Maxime Ferrera"
-description              : &description "PhD Student at ONERA - LIRMM"
+description              : &description "Maxime Ferrera Personnal Website"
 url                      : https://ferreram.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ferreram/ferreram.github.io"
@@ -48,7 +48,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "google98f0bcf7fb7c2fa4"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
