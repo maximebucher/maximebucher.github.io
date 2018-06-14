@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "C++"
 collection: teaching
-type: "Undergraduate course"
+type: "1st year"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "ENPC (Ecole Nationale des Ponts et Chaussées)"
+date: 1st semester, 2017
+location: "Marne-la-vallée, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Introduction to programming through the teaching of the C++ language.
 
 Heading 1
 ======
