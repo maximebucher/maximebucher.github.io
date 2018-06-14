@@ -8,6 +8,6 @@ main:
     
   - title: "CV"
     url: /cv/
-    
- - title: "Technical Posts"
+
+  - title: "Technical Posts"
     url: /year-archive/
