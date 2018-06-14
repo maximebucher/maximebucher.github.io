@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Traitement du signal - Fusion de données"
 collection: teaching
-type: "Workshop"
+type: "Graduate course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "ENSTA ParisTech"
+date: 1st semester, 2017
+location: "Paris Saclay, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Course on estimators and data fusion: Kalman Filter, Extended KF, Unscented KF.
 
 Heading 1
 ======
