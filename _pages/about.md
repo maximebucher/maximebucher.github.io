@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Maxime Ferrera Personnal Web Page"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
