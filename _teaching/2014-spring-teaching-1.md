@@ -1,5 +1,5 @@
 ---
-title: "C++"
+title: "Introduction to programming: C++"
 collection: teaching
 type: "1st year"
 permalink: /teaching/2014-spring-teaching-1
