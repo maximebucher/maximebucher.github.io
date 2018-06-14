@@ -10,11 +10,5 @@ location: "Marne-la-vallée, France"
 
 Introduction to programming through the teaching of the C++ language.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
+TODO : add course slides here
 ======
