@@ -20,7 +20,7 @@ News
 ----
 
 ### May, 2018:
-I have been accepted for an oral presentation at [RFIAP'18](https://rfiap2018.ign.fr/programmes) for my paper on Underwater Visual Odometry.
+I have been accepted for an oral presentation at [RFIAP'18](https://rfiap2018.ign.fr/programmes).
 
 ### March, 2018:
 I will give a talk at the occasion of a day on Cultural Heritage organized by the [GdR ISIS](http://www.gdr-isis.fr/index.php?page=reunion&idreunion=353).
