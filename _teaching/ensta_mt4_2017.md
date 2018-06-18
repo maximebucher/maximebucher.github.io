@@ -1,5 +1,5 @@
 ---
-title: "Traitement du signal et traitement d'image "
+title: "ENSTA - Traitement du signal et traitement d'image "
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/ensta_mt4_2017
