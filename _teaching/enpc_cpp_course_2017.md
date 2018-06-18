@@ -1,5 +1,5 @@
 ---
-title: "ENPC C++ Programming"
+title: "ENPC - C++ Programming"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/enpc_cpp_course_2017
