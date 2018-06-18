@@ -1,14 +1,14 @@
 ---
-title: "PIMS Projects"
+title: "IOGS - PIMS Projects"
 collection: teaching
-type: "2nd year"
-permalink: /teaching/iogs_projects
-venue: "Institut d'Optique Graduate School"
+type: "Graduate course"
+permalink: /teaching/iogs_pims_2017
+venue: "Institut d'Optique Graduate School, 2A"
 date: 2017-09-01
 location: "Paris Saclay, France"
 ---
 
-Supervision of two groups of students for a project over the year.
+Supervision of two groups of students working on the following projects over one year:
 
 ##### Projects:
 
