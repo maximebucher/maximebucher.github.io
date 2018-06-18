@@ -1,9 +1,9 @@
 ---
-title: "Introduction to programming: C++"
+title: "ENPC C++ Programming"
 collection: teaching
-type: "1st year"
+type: "Undergraduate course"
 permalink: /teaching/enpc_cpp_course_2017
-venue: "ENPC (Ecole Nationale des Ponts et Chaussées)"
+venue: "Ecole des Ponts ParisTech, 1A"
 date: 2017-09-01
 location: "Marne-la-vallée, France"
 ---
