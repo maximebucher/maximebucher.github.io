@@ -8,6 +8,7 @@ tags:
   - Tegra - Jetson
 ---
 
+
 This post is about setting up the Tegra TX2 from [NVIDIA](https://devblogs.nvidia.com/jetson-tx2-delivers-twice-intelligence-edge/) with carrier board [Jetson 120](https://auvidea.com/product/70714/) equipped with an IMU.
 
 Setup step by step :
