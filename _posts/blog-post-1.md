@@ -1,7 +1,7 @@
 ---
 title: 'Setting up Tegra TX2 with Jetson 120'
 date: 2018-04-10
-permalink: /posts/2018/04/tegra-setup-post/
+permalink: /posts/2018/04/blog-post-1/
 tags:
   - Embedded Systems
   - Operating Systems
