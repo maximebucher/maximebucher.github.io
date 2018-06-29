@@ -10,7 +10,7 @@ location: "Paris Saclay, France"
 
 Supervision of two groups of students working on the following projects over one year:
 
-##### Projects:
+### Projects:
 
   1. Retrieving scale in monocular 3D reconstruction from Depth from Defocus (DfD)
   2. Augmented Reality: Board game from webcam
