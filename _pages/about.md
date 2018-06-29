@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ------
-I am a PhD student at ONERA and LIRMM. My research interests are Computer Vision, Robots Perception and Machine Learning.
+I am a PhD student at ONERA and LIRMM. My research interests are Computer Vision, Robots Perception, Autonomous Robotics and Machine Learning.
 
 In the context of my thesis, my researches focus on visual SLAM, multi-sensors fusion and 3D reconstruction in the context of underwater robotics for archaeology.  The system providing the required sensors measurement and the computing unit to be embedded on underwater vehicles are also under development within this thesis.
 
@@ -20,7 +20,7 @@ News
 ----
 
 ### May, 2018:
-I have been accepted for an oral presentation at [RFIAP'18](https://rfiap2018.ign.fr/programmes).
+I have been accepted for an oral presentation at [RFIAP'18](https://rfiap2018.ign.fr/programmes) ([slides](https://ferreram.github.io/files/slides_rfiap_18_maxime_ferrera.pdf)).
 
 ### March, 2018:
 I will give a talk at the occasion of a day on Cultural Heritage organized by the [GdR ISIS](http://www.gdr-isis.fr/index.php?page=reunion&idreunion=353).
@@ -40,5 +40,5 @@ I will present a short survey on monocular SLAM applied to underwater environmen
 ### January, 2017:
 I will present my work on underwater localization at ONERA PhD students day.
 
-### October, 2017:
+### October, 2016:
 I am starting a PhD thesis on underwater visual localization and 3D reconstruction at ONERA and LIRMM.
