@@ -23,10 +23,8 @@ News
 
 ### May:
 I have been accepted for an oral presentation at [RFIAP'18](https://rfiap2018.ign.fr/programmes) ([slides](https://ferreram.github.io/files/slides_rfiap_18_maxime_ferrera.pdf)).
-
 ### March:
 I will give a talk at the occasion of a day on Cultural Heritage organized by the [GdR ISIS](http://www.gdr-isis.fr/index.php?page=reunion&idreunion=353).
-
 ### February:
 I will present my work on underwater localization at ONERA PhD students day.
 
@@ -34,13 +32,10 @@ I will present my work on underwater localization at ONERA PhD students day.
 
 ### November:
 I will present results on underwater localization at the occasion of a day on marine robotics organized by the [GdR Robotique](http://www.isir.upmc.fr/index.php?op=view_page&id=1473&menuid=17&lang=fr).
-
 ### November:
 I will give a talk about my PhD thesis at the [JJCR'17](https://jjcr2017.sciencesconf.org/resource/page/id/8).
-
 ### June:
 I will present a poster on monocular SLAM applied to underwater environments at [ORASIS'17](https://orasis2017.sciencesconf.org/program).
-
 ### January:
 I will present my work on underwater localization at ONERA PhD students day.
 
