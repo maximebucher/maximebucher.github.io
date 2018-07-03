@@ -19,26 +19,32 @@ This thesis is supervised by Dr. Vincent Creuze (LIRMM), Dr. Julien Moras (ONERA
 News
 ----
 
-### May, 2018:
+#### 2018
+
+### May:
 I have been accepted for an oral presentation at [RFIAP'18](https://rfiap2018.ign.fr/programmes) ([slides](https://ferreram.github.io/files/slides_rfiap_18_maxime_ferrera.pdf)).
 
-### March, 2018:
+### March:
 I will give a talk at the occasion of a day on Cultural Heritage organized by the [GdR ISIS](http://www.gdr-isis.fr/index.php?page=reunion&idreunion=353).
 
-### February, 2018:
+### February:
 I will present my work on underwater localization at ONERA PhD students day.
 
-### November, 2017:
+#### 2017
+
+### November:
 I will present results on underwater localization at the occasion of a day on marine robotics organized by the [GdR Robotique](http://www.isir.upmc.fr/index.php?op=view_page&id=1473&menuid=17&lang=fr).
 
-### November, 2017:
+### November:
 I will give a talk about my PhD thesis at the [JJCR'17](https://jjcr2017.sciencesconf.org/resource/page/id/8).
 
-### June, 2017:
-I will present a short survey on monocular SLAM applied to underwater environments at [ORASIS'17](https://orasis2017.sciencesconf.org/program).
+### June:
+I will present a poster on monocular SLAM applied to underwater environments at [ORASIS'17](https://orasis2017.sciencesconf.org/program).
 
-### January, 2017:
+### January:
 I will present my work on underwater localization at ONERA PhD students day.
 
-### October, 2016:
-I am starting a PhD thesis on underwater visual localization and 3D reconstruction at ONERA and LIRMM.
+#### 2016
+
+### October:
+I am starting a PhD thesis on underwater visual localization and 3D reconstruction at ONERA and LIRMM!
