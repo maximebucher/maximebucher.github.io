@@ -37,7 +37,7 @@ I will present my work on underwater localization at ONERA PhD students day.
 ### November:
 I will present results on underwater localization at the occasion of a day on marine robotics organized by the [GdR Robotique](http://www.isir.upmc.fr/index.php?op=view_page&id=1473&menuid=17&lang=fr).
 ### November:
-I will give a talk about my PhD thesis at the [JJCR'17](https://jjcr2017.sciencesconf.org/resource/page/id/8).
+I will give a talk about Visual SLAM for ROVs at the [JJCR'17](https://jjcr2017.sciencesconf.org/resource/page/id/8).
 ### June:
 I will present a poster on monocular SLAM applied to underwater environments at [ORASIS'17](https://orasis2017.sciencesconf.org/program).
 ### January:
