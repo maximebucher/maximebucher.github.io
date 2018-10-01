@@ -21,6 +21,10 @@ News
 
 ## 2018
 
+### October:
+I will give a talk at [MOQESM'2018](https://www.ensta-bretagne.fr/moqesm2018/) about vision-based SLAM methods for underwater vehicles.
+### October:
+I will be at [IROS'2018](https://www.iros2018.org/) to present the [Aqualoc Dataset](http://www.lirmm.fr/aqualoc/) at the occasion of the workshop about [New Horizons for Underwater Intervention Missions: from Current Technologies to Future Applications](http://irosworkshop.marinerobotics.eu/) ([paper](https://arxiv.org/pdf/1809.07076.pdf)).
 ### May:
 I have been accepted for an oral presentation at [RFIAP'18](https://rfiap2018.ign.fr/programmes) ([slides](https://ferreram.github.io/files/slides_rfiap_18_maxime_ferrera.pdf)).
 ### March:
