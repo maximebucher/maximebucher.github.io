@@ -36,7 +36,7 @@ I will be at [IROS](https://www.iros2018.org/) to present the [Aqualoc Dataset](
 ### September:
 We are among the winners of the ECCV 2018 [3DRMS Challenge](http://trimbot2020.webhosting.rug.nl/events/3drms/challenge/)!  Checkout the [paper](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11131/Tylecek_The_Second_Workshop_on_3D_Reconstruction_Meets_Semantics_Challenge_Results_ECCVW_2018_paper.pdf) for detailed results on this 3D Semantic Reconstruction challenge.
 ### May:
-I have been accepted for an oral presentation at [RFIAP'18](https://rfiap2018.ign.fr/programmes) ([slides](https://ferreram.github.io/files/slides_rfiap_18_maxime_ferrera.pdf)).
+I have been accepted for an oral presentation at [RFIAP'18](https://rfiap2018.ign.fr/programmes) ([paper](https://rfiap2018.ign.fr/sites/default/files/ARTICLES/RFIAP_2018/RFIAP_2018_Ferrera_Odometrie.pdf),[slides](https://ferreram.github.io/files/slides_rfiap_18_maxime_ferrera.pdf)).
 ### March:
 I will give a talk at the occasion of a day on Cultural Heritage organized by the [GdR ISIS](http://www.gdr-isis.fr/index.php?page=reunion&idreunion=353).
 ### February:
