@@ -22,7 +22,7 @@ News
 ## 2019
 
 ### Februrary:
-Our journal paper on Visual Odometry for Turbid and Dynamic Underwater Environments has been accepted!(paper)(https://www.mdpi.com/1424-8220/19/3/687)
+Our journal paper on Visual Odometry for Turbid and Dynamic Underwater Environments has been accepted!([paper](https://www.mdpi.com/1424-8220/19/3/687))
 
 ### Februrary:
 I will present my work on underwater localization at ONERA PhD students day.
