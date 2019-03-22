@@ -10,13 +10,11 @@ redirect_from:
 
 About me
 ------
-I am a PhD student at ONERA and LIRMM. My research interests are Computer Vision, Robots Perception, Autonomous Robotics and Machine Learning.
+I am a research scientist of valeo.ai, an academic research lab focused on self-driving cars. 
+Previously I have completed my PhD in 2018 at Université de Caen and ONERA under the supervision of Stéphane Herbin and Frédéric Jurie. 
+My research interests include machine learning that combine vision and language for the task of explainable artificial intelligence. 
 
-In the context of my thesis, my researches focus on visual SLAM, multi-sensors fusion and 3D reconstruction in the context of underwater robotics for archaeology.  The system providing the required sensors measurement and the computing unit to be embedded on underwater vehicles are also under development within this thesis.
-
-This thesis is supervised by Dr. Vincent Creuze (LIRMM), Dr. Julien Moras (ONERA), Dr. Pauline Trouvé-Peloux (ONERA). 
-
-News
+Publications
 ----
 
 ## 2019
@@ -42,18 +40,3 @@ I will give a talk at the occasion of a day on Cultural Heritage organized by th
 ### February:
 I will present my work on underwater localization at ONERA PhD students day.
 
-## 2017
-
-### November:
-I will present results on underwater localization at the occasion of a day on marine robotics organized by the [GdR Robotique](http://www.isir.upmc.fr/index.php?op=view_page&id=1473&menuid=17&lang=fr).
-### November:
-I will give a talk about Visual SLAM for ROVs at the [JJCR'17](https://jjcr2017.sciencesconf.org/resource/page/id/8).
-### June:
-I will present a poster on monocular SLAM applied to underwater environments at [ORASIS'17](https://orasis2017.sciencesconf.org/program).
-### January:
-I will present my work on underwater localization at ONERA PhD students day.
-
-## 2016
-
-### October:
-I am starting a PhD thesis on underwater visual localization and 3D reconstruction at ONERA and LIRMM!
