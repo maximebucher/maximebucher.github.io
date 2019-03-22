@@ -22,7 +22,6 @@ Publications
 
 ### ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation
 Tuan-Hung Vu, Himalaya Jain, Maxime Bucher, Mathieu Cord, Patrick Pérez 
-
 IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2019 ([paper](https://arxiv.org/pdf/1811.12833.pdf))
 
 ### Februrary:
