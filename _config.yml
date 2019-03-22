@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Maxime Bucher"
   avatar           : "profile.png"
-  bio              : ""
-  location         : "Paris"
+  bio              : 
+  location         : 
   employer         : "valeo.ai"
   googlescholar    : "https://scholar.google.fr/citations?user=NbYEOpMAAAAJ&hl=fr"
   email            : "maxime.bucher@valeo.com"
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/maxime-bucher/en/"
+  linkedin         : "maxime-bucher"
   orcid            :
   pinterest        :
   soundcloud       :
