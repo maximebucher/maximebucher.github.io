@@ -32,7 +32,7 @@ Asian Conference on Computer Vision , ACCV 2018 ([pdf](https://arxiv.org/pdf/181
 
 #### Learning and exploitation of semantic representations for image classification and retrieval
 <sup>Maxime Bucher.    
-Ph.D. thesis ([thesis](https://hal.archives-ouvertes.fr/tel-01964847/document))</sup> 
+Ph.D. thesis ([pdf](https://hal.archives-ouvertes.fr/tel-01964847/document))</sup> 
 
 #### Zero-Shot Classification by Generating Artificial Visual Features
 <sup>Maxime Bucher, Stéphane Herbin, Frédéric Jurie.    
