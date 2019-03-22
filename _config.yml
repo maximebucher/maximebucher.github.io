@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Maxime Ferrera"
+title                    : "Maxime Bucher"
 title_separator          : "-"
-name                     : &name "Maxime Ferrera"
-description              : &description "Maxime Ferrera Personnal Website"
-url                      : https://ferreram.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Maxime Bucher"
+description              : &description "Maxime Bucher Personnal Website"
+url                      : https://maximebucher.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ferreram/ferreram.github.io"
+repository               : "maximebucher/maximebucher.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
