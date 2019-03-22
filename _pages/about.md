@@ -18,13 +18,13 @@ My research interests include machine learning that combine vision and language 
 Publications
 ----
 
-### 2019
+#### 2019
 
 #### ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation
-Tuan-Hung Vu, Himalaya Jain, Maxime Bucher, Mathieu Cord, Patrick Pérez.    
-Computer Vision and Pattern Recognition, CVPR 2019 ([paper](https://arxiv.org/pdf/1811.12833.pdf))
+####Tuan-Hung Vu, Himalaya Jain, Maxime Bucher, Mathieu Cord, Patrick Pérez.    
+####Computer Vision and Pattern Recognition, CVPR 2019 ([paper](https://arxiv.org/pdf/1811.12833.pdf))
 
-### 2018
+#### 2018
 
 #### Semantic bottleneck for computer vision tasks
 Maxime Bucher, Stéphane Herbin, Frédéric Jurie.    
@@ -38,12 +38,12 @@ Ph.D. thesis ([thesis](https://hal.archives-ouvertes.fr/tel-01964847/document))
 Maxime Bucher, Stéphane Herbin, Frédéric Jurie.    
 Reconnaissance des Formes, Image, Apprentissage et Perception , RFIAP 2018 ([paper](https://hal.archives-ouvertes.fr/hal-01796440/file/1-paper.pdf))
 
-### 2017
+#### 2017
 #### Generating visual representations for zero-shot classification
 Maxime Bucher, Stéphane Herbin, Frédéric Jurie.    
 International Conference on Computer Vision Workshop, ICCV 2017 ([paper](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w38/Bucher_Generating_Visual_Representations_ICCV_2017_paper.pdf))
 
-### 2016
+#### 2016
 #### Improving semantic embedding consistency by metric learning for zero-shot classiffication
 Maxime Bucher, Stéphane Herbin, Frédéric Jurie.    
 European Conference on Computer Vision, ECCV 2016 ([paper](https://arxiv.org/pdf/1607.08085.pdf))
