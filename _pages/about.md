@@ -20,8 +20,10 @@ Publications
 
 ## 2019
 
-### Februrary:
-Our journal paper on Visual Odometry for Turbid and Dynamic Underwater Environments has been accepted!([paper](https://www.mdpi.com/1424-8220/19/3/687))
+### ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation
+Tuan-Hung Vu, Himalaya Jain, Maxime Bucher, Mathieu Cord, Patrick Pérez 
+
+IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2019 ([paper](https://arxiv.org/pdf/1811.12833.pdf))
 
 ### Februrary:
 I will present my work on underwater localization at ONERA PhD students day.
