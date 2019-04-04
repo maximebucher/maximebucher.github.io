@@ -20,9 +20,14 @@ Publications
 
 #### 2019
 
+#### DADA: Depth-aware Domain Adaptation in Semantic Segmentation
+<sup>Tuan-Hung Vu, Himalaya Jain, Maxime Bucher, Mathieu Cord, Patrick Pérez.  
+Published in arxiv ([pdf](https://arxiv.org/pdf/1904.01886.pdf))</sup>  
+
 #### ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation
 <sup>Tuan-Hung Vu, Himalaya Jain, Maxime Bucher, Mathieu Cord, Patrick Pérez.  
 Computer Vision and Pattern Recognition, CVPR 2019 ([pdf](https://arxiv.org/pdf/1811.12833.pdf))</sup>  
+
 
 #### 2018
 
