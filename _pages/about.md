@@ -20,6 +20,10 @@ Publications
 
 #### 2019
 
+#### Zero-Shot Semantic Segmentation
+<sup>Maxime Bucher, Tuan-Hung Vu, Mathieu Cord, Patrick Pérez.  
+Published in arxiv ([pdf](https://arxiv.org/pdf/1906.00817.pdf))</sup> 
+
 #### DADA: Depth-aware Domain Adaptation in Semantic Segmentation
 <sup>Tuan-Hung Vu, Himalaya Jain, Maxime Bucher, Mathieu Cord, Patrick Pérez.  
 Published in arxiv ([pdf](https://arxiv.org/pdf/1904.01886.pdf))</sup>  
