@@ -22,11 +22,11 @@ Publications
 
 #### Zero-Shot Semantic Segmentation
 <sup>Maxime Bucher, Tuan-Hung Vu, Mathieu Cord, Patrick Pérez.  
-International Conference on Computer Vision, ICCV 2019 ([pdf](https://arxiv.org/pdf/1906.00817.pdf))</sup> 
+Published in arxiv ([pdf](https://arxiv.org/pdf/1906.00817.pdf))</sup> 
 
 #### DADA: Depth-aware Domain Adaptation in Semantic Segmentation
 <sup>Tuan-Hung Vu, Himalaya Jain, Maxime Bucher, Mathieu Cord, Patrick Pérez.  
-Published in arxiv ([pdf](https://arxiv.org/pdf/1904.01886.pdf))</sup>  
+International Conference on Computer Vision, ICCV 2019 ([pdf](https://arxiv.org/pdf/1904.01886.pdf))</sup>  
 
 #### ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation
 <sup>Tuan-Hung Vu, Himalaya Jain, Maxime Bucher, Mathieu Cord, Patrick Pérez.  
