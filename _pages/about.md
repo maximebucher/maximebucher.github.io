@@ -17,6 +17,12 @@ My research interests include machine learning that combine vision and language.
 
 Publications
 ----
+#### 2020
+
+#### BUDA: Boundless Unsupervised Domain Adaptation in Semantic Segmentation
+<sup>Maxime Bucher, Tuan-Hung Vu, Mathieu Cord, Patrick Pérez.  
+arXiv 2020 ([pdf](https://arxiv.org/pdf/2004.01130.pdf))</sup> 
+
 
 #### 2019
 
