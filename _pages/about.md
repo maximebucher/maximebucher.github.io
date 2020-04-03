@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ------
-I am a research scientist of valeo.ai, an academic research lab focused on self-driving cars. 
+I am a research scientist of valeo.ai, a research lab focused on self-driving cars. 
 Previously I have completed my PhD in 2018 at Université de Caen and ONERA under the supervision of Stéphane Herbin and Frédéric Jurie. 
 
 My research interests include machine learning that combine vision and language.
